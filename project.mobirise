@@ -48,7 +48,7 @@
     ],
     "uniqCompNum": 46,
     "versionPublish": "4.12.4",
-    "imageResize": true,
+    "imageResize": false,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/t-128x128.png",
     "robotsSwitcher": false,
